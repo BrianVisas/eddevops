@@ -1,0 +1,9 @@
+.git
+.github
+.venv
+.pytest_cache
+__pycache__
+infra
+k8s
+tests
+sample-project.zip
